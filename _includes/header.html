@@ -2,7 +2,7 @@
   <div class="header">
       <h1>
         <span class="site-title">{{ site.username }}</span>
-        <span class="site-description">{{ site.user_title }}</span>
+        <span class="site-description" style="color: #B0B0B0;">{{ site.user_title }}</span>
       </h1>
       <div class="header-icons">
         {% if site.email %}
@@ -10,6 +10,9 @@
         {% endif %}
         {% if site.twitter_username %}
         <a aria-label="My Twitter" target="_blank" href="https://twitter.com/{{ site.twitter_username }}"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
+        {% endif %}
+        {% if site.Scholar_username %}
+        <a aria-label="My Scholar" target="_blank" href="https://scholar.google.com/citations?user={{ site.Scholar_username }}"><i class="icon fa fa-graduation-cap" aria-hidden="true"></i></a>
         {% endif %}
         {% if site.instagram_username %}
         <a aria-label="My Instagram" target="_blank" href="https://www.instagram.com/{{ site.instagram_username }}"><i class="icon fa fa-instagram" aria-hidden="true"></i></a>
