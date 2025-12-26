@@ -1,11 +1,11 @@
 # Site settings
 title:  Haoyang Huang's Homepage
-description:  Haoyang Huang (黄浩洋) ｜ Haoyang Huang's Homepage
+description:  Haoyang Huang's Homepage
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Haoyang Huang (黄浩洋) | Haoyang Huang's Homepage
+username: Haoyang Huang's Homepage
 user_description: Haoyang Huang is is currently a senior expert at the Image and Multimodal Lab of JD Discovery Academy, leading research on unified multimodal foundation models. He holds a master's degree from Peking University and has won numerous top global data mining competition awards, as well as the Kaggle Master title. At Microsoft Research Asia, he focused on multimodal and multilingual foundation models, being one of the earliest researchers to develop multilingual foundation models. He designed the multilingual model <a href="https://arxiv.org/abs/1909.00964" style="color:blue;">Unicoder</a>, which covers 100 languages, and applied this technology to the Bing Search team and Microsoft Translator, significantly improving their understanding of low-resource languages. He also participated in the WMT21 machine translation competition, winning first place globally. In addition, he led the development of <a href="https://arxiv.org/abs/2006.02635" style="color:blue;">M3P</a>, the world’s first multilingual multimodal pre-trained model. He has published dozens of papers in top conferences such as CVPR, NeurIPS, ACL, EMNLP, and AAAI, with over 2,000 citations on Google Scholar. In 2024, he joined StepFun, leading the development and open-sourcing of the 30B StepVideo model series (<a href="https://arxiv.org/abs/2502.10248" style="color:blue;">Step-Video-T2V</a>, <a href="https://arxiv.org/abs/2503.11251" style="color:blue;">Step-Video-TI2V</a>).
 user_description2: 黄浩洋现任京东探索学院图像与多模态实验室资深专家，带领团队开展统一多模态基础模型研究。他拥有北京大学硕士学位，多次获得全球顶级数据挖掘比赛奖项，并获得 Kaggle Master 称号。在微软亚洲研究院，他专注于多模态与多语言基础模型的研究，最早开展多语言基础模型的设计，推出了覆盖 100 种语言的多语言模型 Unicoder，并将相关技术应用于微软必应搜索团队和微软机器翻译，显著提升了对小语种的理解能力，且参与 WMT21 机器翻译比赛获得全球第一名。此外，他还主导了全球首个多语言多模态预训练模型 M3P 的研发。他在 CVPR、NeurIPS、ACL、EMNLP、AAAI 等顶级会议发表了数十篇论文，谷歌学术引用量超过 2,000 次。2024 年，他加入 StepFun，主导并开源了 30B StepVideo 模型系列（Step-Video-T2V、Step-Video-TI2V）。
 
