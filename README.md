@@ -7,7 +7,7 @@
 Haoyang Huang is currently the Director of the Image and Multimodal Lab at JD.com's Exploration Research Institute, leading a team in research on unified multimodal generation foundational models. He holds a PhD from Peking University and has won numerous awards in top global data mining competitions, including a Kaggle Master title. At Microsoft Research Asia, he focused on research into multimodal and multilingual foundational models, pioneering the design of multilingual foundational models and launching the Unicoder multilingual model covering 100 languages. He applied these technologies to Microsoft Bing Search and Microsoft Machine Translation, significantly improving the understanding of less commonly spoken languages, and won first place globally in the WMT21 machine translation competition. Furthermore, he led the development of M3P, the world's first multilingual multimodal pre-trained model. He has published dozens of papers at top conferences such as CVPR, NeurIPS, ACL, EMNLP, and AAAI, with over 3,000 citations on Google Scholar. In 2024, he joined StepFun, leading and open-sourcing the 30B StepVideo model series (Step-Video-T2V and Step-Video-TI2V). Recently, JoyAI-Image-Edit, an integrated image spatial editing model, and JoyAI-Echo, an ultra-long audio and video generation model, were open-sourced.
 
 
-黄浩洋现任京东探索研究院图像与多模态实验室主任，带领团队开展统一多模态生成基础模型研究。北京大学博士，多次获得全球顶级数据挖掘比赛奖项，并获得 Kaggle Master 称号。在微软亚洲研究院，他专注于多模态与多语言基础模型的研究，最早开展多语言基础模型的设计，推出了覆盖 100 种语言的多语言模型 Unicoder，并将相关技术应用于微软必应搜索团队和微软机器翻译，显著提升了对小语种的理解能力，且参与 WMT21 机器翻译比赛获得全球第一名。此外，他还主导了全球首个多语言多模态预训练模型 M3P 的研发。他在 CVPR、NeurIPS、ACL、EMNLP、AAAI 等顶级会议发表了数十篇论文，谷歌学术引用量 3,000 次。2024 年，他加入 StepFun，主导并开源了 30B StepVideo 模型系列（Step-Video-T2V、Step-Video-TI2V）。近期开源JoyAI-Image-Edit一体化图像空间编辑模型以及JoyAI-Echo超长音视频生成模型。
+黄浩洋现任京东探索研究院图像与多模态实验室主任，带领团队开展统一多模态生成基础模型研究。北京大学前沿博士在读，多次获得全球顶级数据挖掘比赛奖项，并获得 Kaggle Master 称号。在微软亚洲研究院，他专注于多模态与多语言基础模型的研究，最早开展多语言基础模型的设计，推出了覆盖 100 种语言的多语言模型 Unicoder，并将相关技术应用于微软必应搜索团队和微软机器翻译，显著提升了对小语种的理解能力，且参与 WMT21 机器翻译比赛获得全球第一名。此外，他还主导了全球首个多语言多模态预训练模型 M3P 的研发。他在 CVPR、NeurIPS、ACL、EMNLP、AAAI 等顶级会议发表了数十篇论文，谷歌学术引用量 3,000 次。2024 年，他加入 StepFun，主导并开源了 30B StepVideo 模型系列（Step-Video-T2V、Step-Video-TI2V）。近期开源JoyAI-Image-Edit一体化图像空间编辑模型以及JoyAI-Echo超长音视频生成模型。
 
 
 # Highlights
@@ -43,29 +43,11 @@ Haoyang Huang is currently the Director of the Image and Multimodal Lab at JD.co
     Guoqing Ma, Haoyang Huang, Kun Yan, Liangyu Chen, Nan Duan.<br>
     Technical Report, 2025.
   </li>
-
-  <li>
-    <strong>STORYANCHORS: Generating Consistent Multi-Scene Story Frames for Long-Form Narratives</strong><br>
-    Bo Wang, Haoyang Huang, Zhiying Lu, Fengyuan Liu, Guoqing Ma, Jianlong Yuan, Yuan Zhang, Nan Duan, Daxin Jiang.<br>
-    Preprint, 2025.
-  </li>
-
+  
   <li>
     <strong>Generative pre-trained autoregressive diffusion transformer</strong><br>
     Yuan Zhang, Jiacheng Jiang, Guoqing Ma, Zhiying Lu, Haoyang Huang, Jianlong Yuan, Nan Duan.<br>
     Preprint, 2025.
-  </li>
-
-  <li>
-    <strong>Respond in my language: Mitigating language inconsistency in response generation based on large language models</strong><br>
-    Liang Zhang, Qin Jin, Haoyang Huang, Dongdong Zhang, Furu Wei.<br>
-    ACL, 2024.
-  </li>
-
-  <li>
-    <strong>Language-specific neurons: The key to multilingual capabilities in large language models</strong><br>
-    Tianyi Tang, Wenyang Luo, Haoyang Huang, Dongdong Zhang, Xiaolei Wang, Xin Zhao, Furu Wei, Ji-Rong Wen.<br> 
-    ACL, 2024.
   </li>
 
   <li>
@@ -75,33 +57,9 @@ Haoyang Huang is currently the Director of the Image and Multimodal Lab at JD.co
   </li>
 
    <li>
-    <strong>TRIP: Accelerating Document-level Multilingual Pre-training via Triangular Document-level Pre-training on Parallel Data Triplets</strong><br>
-    Hongyuan Lu, Haoyang Huang, Shuming Ma, Dongdong Zhang, Wai Lam, Zhaochuan Gao, Anthony Aue, Arul Menezes, Furu Wei.<br> 
-    EMNLP, 2024.
-  </li>
-
-   <li>
-    <strong>Not All Metrics Are Guilty: Improving NLG Evaluation by Diversifying References</strong><br>
-    Tianyi Tang, Hongyuan Lu, Yuchen Jiang, Haoyang Huang, Dongdong Zhang, Xin Zhao, Tom Kocmi, Furu Wei.<br> 
-    NAACL, 2024.
-  </li>
-
-  <li>
-    <strong>Chain-of-Dictionary Prompting Elicits Translation in Large Language Models</strong><br>
-    Hongyuan Lu, Haoran Yang, Haoyang Huang, Dongdong Zhang, Wai Lam, Furu Wei.<br> 
-    EMNLP, 2024.
-  </li>
-
-   <li>
     <strong>Not All Languages Are Created Equal in LLMs</strong><br>
     Haoyang Huang, Tianyi Tang, Dongdong Zhang, Wayne Xin Zhao, Ting Song, Yan Xia, Furu Wei.<br> 
     EMNLP, 2023.
-   </li>
-
-  <li>
-    <strong>HanoiT: Enhancing Context-aware Translation via Selective Context</strong><br>
-    Jian Yang, Yuwei Yin, Shuming Ma, Liqun Yang, Hongcheng Guo, Haoyang Huang, Dongdong Zhang, Yutao Zeng, Zhoujun Li, Furu Wei.<br> 
-    DASFFAA, 2023.
    </li>
 
   <li>
@@ -110,23 +68,6 @@ Haoyang Huang is currently the Director of the Image and Multimodal Lab at JD.co
     CVPR, 2023.
    </li>
 
-  <li>
-    <strong>GanLM: Encoder-Decoder Pre-training with an Auxiliary Discriminator</strong><br>
-    Jian Yang, Shuming Ma, Li Dong, Shaohan Huang, Haoyang Huang, Yuwei Yin, Dongdong Zhang, Liqun Yang, Furu Wei, Zhoujun Li.<br> 
-    ACL, 2023.
-   </li>
-
-  <li>
-    <strong>LVP-M3: Language-aware Visual Prompt for Multilingual Multimodal Machine Translation</strong><br>
-    Hongcheng Guo, Jiaheng Liu, Haoyang Huang, Jian Yang, Zhoujun Li, Dongdong Zhang, Zheng Cui.<br> 
-    EMNLP, 2022.
-   </li>
-
-  <li>
-    <strong>BlonDe: An Automatic Evaluation Metric for Document-level Machine Translation</strong><br>
-    Yuchen Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Jian Yang, Haoyang Huang, Rico Sennrich, Ryan Cotterell, Mrinmaya Sachan, Ming Zhou.<br> 
-    NAACL, 2022.
-   </li>
 
    <li>
     <strong>M3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training</strong><br>
@@ -140,30 +81,6 @@ Haoyang Huang is currently the Director of the Image and Multimodal Lab at JD.co
     Preprint, 2021.
    </li>
    
-
-   <li>
-    <strong>Hierarchical Context-aware Network for Dense Video Event Captioning</strong><br>
-    Lei Ji, Xianglin Guo, Haoyang Huang, Xilin Chen.<br> 
-    ACL, 2021.
-   </li>
-
-   <li>
-    <strong>Xgpt: Cross-modal generative pre-training for image captioning</strong><br>
-    Qiaolin Xia, Haoyang Huang, Nan Duan, Dongdong Zhang, Lei Ji, Zhifang Sui, Edward Cui, Taroon Bharti, Ming Zhou.<br> 
-    NLPCC, 2021.
-   </li>
-
-   <li>
-    <strong>Multilingual Agreement for Multilingual Neural Machine Translation</strong><br>
-    Jian Yang, Yuwei Yin, Shuming Ma, Haoyang Huang, Dongdong Zhang, Zhoujun Li, Furu Wei.<br> 
-    ACL, 2021.
-   </li>
-
-   <li>
-    <strong>Improving Multilingual Neural Machine Translation with Auxiliary Source Languages</strong><br>
-    Weijia Xu, Yuwei Yin, Shuming Ma, Dongdong Zhang, Haoyang Huang.<br> 
-    EMNLP finding, 2021.
-   </li>
 
    <li>
     <strong>Multilingual Machine Translation Systems from Microsoft for WMT21 Shared Task</strong><br>
